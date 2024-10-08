@@ -40,3 +40,11 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.btn {
+  background-color: transparent;
+  border: 1px solid #0a0a0a;
+  padding: 8px 12px;
+}
+
